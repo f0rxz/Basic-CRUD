@@ -4,5 +4,5 @@ basic CRUD functionality that returns one of the jsons via the "quests" route, a
 psql postgres -U username
 CREATE DATABASE dbname
 psql -U username -d dbname -f resetdb.sql
-``
+```
 And configure the config.env file
